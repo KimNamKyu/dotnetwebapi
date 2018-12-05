@@ -34,7 +34,7 @@ namespace dotnetwebapi
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseStaticFiles();
             app.UseMvc();
         }
     }
