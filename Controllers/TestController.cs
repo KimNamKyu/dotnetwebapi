@@ -36,5 +36,11 @@ namespace dotnetwebapi.Controllers
         {
             return Query.GetDelete(test);
         }
+        [Route("api/Select")]
+        [HttpGet]
+        public ActionResult<ArrayList> Select([FromForm] Test test)
+        {
+            return Query.GetSelect();
+        }
     }
 }
