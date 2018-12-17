@@ -1,0 +1,14 @@
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.json
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.dev.json
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cache
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cs
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.RazorTargetAssemblyInfo.cache
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\GDC2\Desktop\github\dotnetwebapi\1217\Service\obj\Debug\netcoreapp2.1\Service.pdb
