@@ -61,13 +61,13 @@ namespace Service.Controllers
         {
             System.Console.WriteLine("update");
             string param = string.Format("{0} : {1}", name, age);
-            System.Console.WriteLine("Insert");
+            
             Hashtable ht = new Hashtable();
             ht.Add("@no",no);
             ht.Add("@name",name);
             ht.Add("@age",age);
             Database db = new Database();
-            if(db.NonQuery("sp_Insert",ht))
+            if(db.NonQuery("sp_update",ht))
             {
                 return "1";
             }
@@ -79,10 +79,22 @@ namespace Service.Controllers
 
          [Route("delete")]
         [HttpPost]
-        public ActionResult<string> delete(string value)
+        public ActionResult<string> delete([FromForm] string no)
         {
             System.Console.WriteLine("delete");
-            return "";
+            
+            Hashtable ht = new Hashtable();
+            ht.Add("@no",no);
+           
+            Database db = new Database();
+            if(db.NonQuery("sp_delete",ht))
+            {
+                return "1";
+            }
+            else
+            {
+                return "0";
+            }
         }
 
         [Route("imageUpload")]
